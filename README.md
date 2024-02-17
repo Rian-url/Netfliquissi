@@ -2,4 +2,4 @@
 
 Template simples de catalogo de filmes e séries inspirado na Netflix.
 
-https://rian-usr.github.io/Netfliquissi/
+<a href="https://rian-url.github.io/Netfliquissi/" target="_blank"> Linke do site </a>
